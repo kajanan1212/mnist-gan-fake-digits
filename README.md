@@ -5,7 +5,7 @@ This repository contains the code for a programming assignment to implement a Ge
 ## Project Structure
 - `Generator G` - GAN's generator to create fake MNIST digits.
 - `Discriminator D` - GAN's discriminator to differentiate between real and fake digits.
-- `Classifier C` - CNN-based classifier to evaluate generated images.
+- `Classifier C` - CNN-based 0-9 digit classifier to evaluate generated images.
 
 ## Steps
 
